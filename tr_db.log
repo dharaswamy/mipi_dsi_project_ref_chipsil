@@ -1,0 +1,2 @@
+  CREATE_STREAM @0 {NAME:Q T:Transactions SCOPE:uvm_test_top.e.dc_a_t.disp_cnt_agt[0].cnt_seqrh STREAM:1102}
+  CREATE_STREAM @0 {NAME:sq1 T:Transactions SCOPE:uvm_test_top.e.da_a_t.disp_ahb_agt[0].ahb_seqrh STREAM:1105}
